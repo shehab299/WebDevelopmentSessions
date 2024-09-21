@@ -1,0 +1,17 @@
+{
+  "name": "dragon",
+  "version": "1.0.0",
+  "description": "this is a pseduo program",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "hello" : "cowsay hello",
+    "test2" : "echo This testing && nodemon app.js" 
+  },
+  "keywords": [
+    "dragon",
+    "egg"
+  ],
+  "author": "shehab",
+  "license": "MIT"
+}
