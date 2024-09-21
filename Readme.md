@@ -1,7 +1,8 @@
 # Course Overview
 
-This repository contains the lecture notes and outlines for various topics related to web development, networking, and JavaScript. Below is a summary of the topics covered in each lecture.
+This repository contains the lecture notes and outlines for various topics related to web development, networking, and JavaScript which I explained in the webdev course in Cairo University. Below is a summary of the topics covered in each lecture.
 
+# OUTLINE
 ---
 
 ## Networks Lecture
